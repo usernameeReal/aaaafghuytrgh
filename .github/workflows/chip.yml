@@ -1,4 +1,4 @@
-name: Build PCA9685 Custom Chip
+name: Build Custom Chip
 
 on:
   push:
